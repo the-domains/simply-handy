@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T17:55:59.448Z'
-dateModified: '2016-02-10T17:55:53.754Z'
-title: Philosophy
+datePublished: '2016-02-10T18:39:36.206Z'
+dateModified: '2016-02-10T18:39:34.244Z'
+title: Our Philosophy
 author: []
 sourcePath: _posts/2016-02-10-our-philosophy.md
 published: true
@@ -22,6 +22,6 @@ url: our-philosophy/index.html
 _type: WebPage
 
 ---
-# Philosophy
+# Our Philosophy
 
 At Simply Handy our philosophy is to keep handy work and home services simple for customers. When I mean simple we mean; straight forward, honest, and affordable. On the contrary, just because we are simple that does not mean our services lack a luster, quality, and attention to detail. In fact we aim do provide just that. It's our way of keeping things simple for you, and providing services that skip the confusion, hassle, and doubts of anything handy man related.
