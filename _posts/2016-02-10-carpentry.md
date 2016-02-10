@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T09:58:12.971Z'
-dateModified: '2016-02-10T09:58:01.152Z'
+datePublished: '2016-02-10T17:58:57.765Z'
+dateModified: '2016-02-10T17:58:55.197Z'
 title: Carpentry
 author: []
+sourcePath: _posts/2016-02-10-carpentry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-carpentry.md
-published: true
 _type: Blurb
 
 ---
