@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T09:44:49.607Z'
-dateModified: '2016-02-10T09:44:12.778Z'
+datePublished: '2016-02-10T10:05:47.855Z'
+dateModified: '2016-02-10T10:05:46.234Z'
 title: Our Services
 author: []
+sourcePath: _posts/2016-02-10-our-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-our-services.md
-published: true
 url: our-services/index.html
 _type: WebPage
 
