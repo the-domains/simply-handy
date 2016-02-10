@@ -1,6 +1,6 @@
 name: Simply Handy
 favicon: null
-layout_spectrum: 0.26372
+layout_spectrum: 0.50156
 typography_spectrum: 0.37943
 title: Simply Handy
 cta:
@@ -22,7 +22,7 @@ color:
     - '#453027'
     - '#896647'
     - '#bc9779'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.5
