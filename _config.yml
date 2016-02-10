@@ -1,14 +1,28 @@
+name: Simply Handy
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5806451
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5215054
-  lightness: 0.5949821
-  brandStrength: 1
-  rhythmicContrast: 0.3080152
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-name: Simply Handy
+  brandStrength: 1
+  lightness: 0.5949821
+  saturation: 0.5215054
+  rhythmicContrast: 0.3080152
+purpose: []
