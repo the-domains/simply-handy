@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Simply Handy]]></title>
+        <description><![CDATA[Simply Handy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 04:48:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>At Simply Handy our philosophy is to keep handy work and home services simple for customers. When I mean simple we mean; straight forward, honest, and affordable. On the contrary, just because we are simple that does not mean our services lack a luster, quality, and attention to detail. In fact we aim do provide just that. It's our way of keeping things simple for you, and providing services that skip the confusion, hassle, and doubts of anything handy man related.</p>]]></description>
+            <link>undefined5d2b8289-3cdd-4caf-a464-f029b9d331c9/index.html</link>
+            <guid isPermaLink="false">5d2b8289-3cdd-4caf-a464-f029b9d331c9</guid>
+            <pubDate>Wed, 10 Feb 2016 04:48:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
