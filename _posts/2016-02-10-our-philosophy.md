@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:40:24.185Z'
-dateModified: '2016-02-10T18:40:22.714Z'
+datePublished: '2016-02-10T18:40:46.607Z'
+dateModified: '2016-02-10T18:40:43.565Z'
 title: About
 author: []
 sourcePath: _posts/2016-02-10-our-philosophy.md
