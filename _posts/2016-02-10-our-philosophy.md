@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T06:36:55.981Z'
-dateModified: '2016-02-10T06:36:39.955Z'
+datePublished: '2016-02-10T06:39:52.317Z'
+dateModified: '2016-02-10T06:39:50.089Z'
 title: Our Philosophy
 author: []
+sourcePath: _posts/2016-02-10-our-philosophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-our-philosophy.md
-published: true
 url: our-philosophy/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Our Philosophy
