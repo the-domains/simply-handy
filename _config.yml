@@ -1,6 +1,6 @@
 name: Simply Handy
 favicon: null
-layout_spectrum: 0.24977
+layout_spectrum: 0
 typography_spectrum: 0.37943
 title: Simply Handy by John Kegel
 cta:
@@ -23,7 +23,7 @@ color:
     - '#896647'
     - '#bc9779'
   brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.75
+  lightness: 0.4375
+  saturation: 0.5625
   rhythmicContrast: 0.25
 purpose: []
