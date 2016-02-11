@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T18:20:28.713Z'
-dateModified: '2016-02-10T18:20:25.958Z'
-title: Services
+datePublished: '2016-02-11T01:28:39.922Z'
+dateModified: '2016-02-11T01:28:36.756Z'
+title: Our Services
 author: []
 sourcePath: _posts/2016-02-10-our-services.md
 published: true
@@ -22,7 +22,7 @@ url: our-services/index.html
 _type: WebPage
 
 ---
-# Services
+# Our Services
 
 ## We provide an array of  different types of handyman services such as; Carpentry, Electrical, Plumbing, and more
 
