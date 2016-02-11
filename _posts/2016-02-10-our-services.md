@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-11T01:28:39.922Z'
-dateModified: '2016-02-11T01:28:36.756Z'
+description: A brief introduction to the Handy Man Services we can provide
+datePublished: '2016-02-11T01:34:34.476Z'
+dateModified: '2016-02-11T01:34:30.511Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-02-10-our-services.md
